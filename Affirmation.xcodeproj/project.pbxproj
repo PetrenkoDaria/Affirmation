@@ -13,6 +13,25 @@
 		7925E5092C5A3D91002C602C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7925E5082C5A3D91002C602C /* Preview Assets.xcassets */; };
 		7925E50B2C5A3D91002C602C /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E50A2C5A3D91002C602C /* Persistence.swift */; };
 		7925E50E2C5A3D91002C602C /* Affirmation.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7925E50C2C5A3D91002C602C /* Affirmation.xcdatamodeld */; };
+		7925E51D2C5A431A002C602C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E51C2C5A431A002C602C /* SettingsView.swift */; };
+		7925E5202C5A443F002C602C /* Color+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E51F2C5A443F002C602C /* Color+.swift */; };
+		7925E5222C5A5A7F002C602C /* AffirmationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E5212C5A5A7F002C602C /* AffirmationView.swift */; };
+		7925E5272C5A73C0002C602C /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E5262C5A73C0002C602C /* CategoryView.swift */; };
+		7925E52A2C5A8906002C602C /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E5292C5A8906002C602C /* Category.swift */; };
+		7925E52C2C5A9101002C602C /* AffirmationsEn.json in Resources */ = {isa = PBXBuildFile; fileRef = 7925E52B2C5A90FB002C602C /* AffirmationsEn.json */; };
+		7925E52F2C5A94A2002C602C /* Affirmation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E52E2C5A94A2002C602C /* Affirmation.swift */; };
+		7925E5312C5A951D002C602C /* Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E5302C5A951D002C602C /* Parser.swift */; };
+		7925E5332C5A960E002C602C /* AffirmationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E5322C5A960E002C602C /* AffirmationViewModel.swift */; };
+		7925E5362C5A9E6D002C602C /* OnboardingCategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E5352C5A9E6D002C602C /* OnboardingCategoryView.swift */; };
+		7925E5382C5B65FE002C602C /* AffirmationsRu.json in Resources */ = {isa = PBXBuildFile; fileRef = 7925E5372C5B65FE002C602C /* AffirmationsRu.json */; };
+		7925E53A2C5B7016002C602C /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E5392C5B7016002C602C /* OnboardingView.swift */; };
+		7925E53C2C5B8021002C602C /* OnboardingBackColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E53B2C5B8021002C602C /* OnboardingBackColorView.swift */; };
+		7925E53E2C5B89E0002C602C /* OnboardingGenderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E53D2C5B89E0002C602C /* OnboardingGenderView.swift */; };
+		7925E5402C5B9322002C602C /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 7925E53F2C5B9322002C602C /* Localizable.xcstrings */; };
+		7925E5452C5BA954002C602C /* AffirmationCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E5442C5BA954002C602C /* AffirmationCardView.swift */; };
+		7925E5472C5BAA4A002C602C /* SettingsCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E5462C5BAA4A002C602C /* SettingsCellView.swift */; };
+		7925E5492C5BAC65002C602C /* CategoryCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E5482C5BAC65002C602C /* CategoryCellView.swift */; };
+		7925E54B2C5BACEF002C602C /* OnboardingCategoryCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7925E54A2C5BACEF002C602C /* OnboardingCategoryCellView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +42,26 @@
 		7925E5082C5A3D91002C602C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7925E50A2C5A3D91002C602C /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		7925E50D2C5A3D91002C602C /* Affirmation.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Affirmation.xcdatamodel; sourceTree = "<group>"; };
+		7925E51C2C5A431A002C602C /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		7925E51F2C5A443F002C602C /* Color+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+.swift"; sourceTree = "<group>"; };
+		7925E5212C5A5A7F002C602C /* AffirmationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AffirmationView.swift; sourceTree = "<group>"; };
+		7925E5252C5A6D50002C602C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7925E5262C5A73C0002C602C /* CategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryView.swift; sourceTree = "<group>"; };
+		7925E5292C5A8906002C602C /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		7925E52B2C5A90FB002C602C /* AffirmationsEn.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = AffirmationsEn.json; sourceTree = "<group>"; };
+		7925E52E2C5A94A2002C602C /* Affirmation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Affirmation.swift; sourceTree = "<group>"; };
+		7925E5302C5A951D002C602C /* Parser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Parser.swift; sourceTree = "<group>"; };
+		7925E5322C5A960E002C602C /* AffirmationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AffirmationViewModel.swift; sourceTree = "<group>"; };
+		7925E5352C5A9E6D002C602C /* OnboardingCategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingCategoryView.swift; sourceTree = "<group>"; };
+		7925E5372C5B65FE002C602C /* AffirmationsRu.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = AffirmationsRu.json; sourceTree = "<group>"; };
+		7925E5392C5B7016002C602C /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		7925E53B2C5B8021002C602C /* OnboardingBackColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingBackColorView.swift; sourceTree = "<group>"; };
+		7925E53D2C5B89E0002C602C /* OnboardingGenderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingGenderView.swift; sourceTree = "<group>"; };
+		7925E53F2C5B9322002C602C /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		7925E5442C5BA954002C602C /* AffirmationCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AffirmationCardView.swift; sourceTree = "<group>"; };
+		7925E5462C5BAA4A002C602C /* SettingsCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsCellView.swift; sourceTree = "<group>"; };
+		7925E5482C5BAC65002C602C /* CategoryCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCellView.swift; sourceTree = "<group>"; };
+		7925E54A2C5BACEF002C602C /* OnboardingCategoryCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingCategoryCellView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +96,14 @@
 			children = (
 				7925E5012C5A3D8F002C602C /* AffirmationApp.swift */,
 				7925E5032C5A3D8F002C602C /* ContentView.swift */,
-				7925E5052C5A3D91002C602C /* Assets.xcassets */,
+				7925E5282C5A88F8002C602C /* Model */,
+				7925E5412C5BA831002C602C /* Affirmation */,
+				7925E5432C5BA874002C602C /* Settings */,
+				7925E5422C5BA860002C602C /* Category */,
+				7925E5342C5A9E2E002C602C /* Onboarding */,
+				7925E51E2C5A441D002C602C /* Helpers */,
+				7925E52D2C5A93E1002C602C /* Resources */,
+				7925E5252C5A6D50002C602C /* Info.plist */,
 				7925E50A2C5A3D91002C602C /* Persistence.swift */,
 				7925E50C2C5A3D91002C602C /* Affirmation.xcdatamodeld */,
 				7925E5072C5A3D91002C602C /* Preview Content */,
@@ -71,6 +117,75 @@
 				7925E5082C5A3D91002C602C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		7925E51E2C5A441D002C602C /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				7925E51F2C5A443F002C602C /* Color+.swift */,
+				7925E5302C5A951D002C602C /* Parser.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		7925E5282C5A88F8002C602C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				7925E5292C5A8906002C602C /* Category.swift */,
+				7925E52E2C5A94A2002C602C /* Affirmation.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		7925E52D2C5A93E1002C602C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7925E53F2C5B9322002C602C /* Localizable.xcstrings */,
+				7925E5052C5A3D91002C602C /* Assets.xcassets */,
+				7925E52B2C5A90FB002C602C /* AffirmationsEn.json */,
+				7925E5372C5B65FE002C602C /* AffirmationsRu.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		7925E5342C5A9E2E002C602C /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				7925E5392C5B7016002C602C /* OnboardingView.swift */,
+				7925E5352C5A9E6D002C602C /* OnboardingCategoryView.swift */,
+				7925E54A2C5BACEF002C602C /* OnboardingCategoryCellView.swift */,
+				7925E53B2C5B8021002C602C /* OnboardingBackColorView.swift */,
+				7925E53D2C5B89E0002C602C /* OnboardingGenderView.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		7925E5412C5BA831002C602C /* Affirmation */ = {
+			isa = PBXGroup;
+			children = (
+				7925E5212C5A5A7F002C602C /* AffirmationView.swift */,
+				7925E5442C5BA954002C602C /* AffirmationCardView.swift */,
+				7925E5322C5A960E002C602C /* AffirmationViewModel.swift */,
+			);
+			path = Affirmation;
+			sourceTree = "<group>";
+		};
+		7925E5422C5BA860002C602C /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				7925E5262C5A73C0002C602C /* CategoryView.swift */,
+				7925E5482C5BAC65002C602C /* CategoryCellView.swift */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		7925E5432C5BA874002C602C /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				7925E51C2C5A431A002C602C /* SettingsView.swift */,
+				7925E5462C5BAA4A002C602C /* SettingsCellView.swift */,
+			);
+			path = Settings;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -115,6 +230,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ru,
 			);
 			mainGroup = 7925E4F52C5A3D8F002C602C;
 			productRefGroup = 7925E4FF2C5A3D8F002C602C /* Products */;
@@ -132,6 +248,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				7925E5092C5A3D91002C602C /* Preview Assets.xcassets in Resources */,
+				7925E5402C5B9322002C602C /* Localizable.xcstrings in Resources */,
+				7925E5382C5B65FE002C602C /* AffirmationsRu.json in Resources */,
+				7925E52C2C5A9101002C602C /* AffirmationsEn.json in Resources */,
 				7925E5062C5A3D91002C602C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -143,10 +262,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7925E5362C5A9E6D002C602C /* OnboardingCategoryView.swift in Sources */,
+				7925E52F2C5A94A2002C602C /* Affirmation.swift in Sources */,
+				7925E5312C5A951D002C602C /* Parser.swift in Sources */,
+				7925E51D2C5A431A002C602C /* SettingsView.swift in Sources */,
+				7925E5452C5BA954002C602C /* AffirmationCardView.swift in Sources */,
+				7925E5472C5BAA4A002C602C /* SettingsCellView.swift in Sources */,
 				7925E50E2C5A3D91002C602C /* Affirmation.xcdatamodeld in Sources */,
 				7925E50B2C5A3D91002C602C /* Persistence.swift in Sources */,
+				7925E53C2C5B8021002C602C /* OnboardingBackColorView.swift in Sources */,
+				7925E5492C5BAC65002C602C /* CategoryCellView.swift in Sources */,
 				7925E5042C5A3D8F002C602C /* ContentView.swift in Sources */,
+				7925E53E2C5B89E0002C602C /* OnboardingGenderView.swift in Sources */,
+				7925E5222C5A5A7F002C602C /* AffirmationView.swift in Sources */,
+				7925E52A2C5A8906002C602C /* Category.swift in Sources */,
 				7925E5022C5A3D8F002C602C /* AffirmationApp.swift in Sources */,
+				7925E5332C5A960E002C602C /* AffirmationViewModel.swift in Sources */,
+				7925E5272C5A73C0002C602C /* CategoryView.swift in Sources */,
+				7925E5202C5A443F002C602C /* Color+.swift in Sources */,
+				7925E54B2C5BACEF002C602C /* OnboardingCategoryCellView.swift in Sources */,
+				7925E53A2C5B7016002C602C /* OnboardingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,6 +418,7 @@
 				DEVELOPMENT_TEAM = 53ZCT9X6XF;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Affirmation/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -312,6 +448,7 @@
 				DEVELOPMENT_TEAM = 53ZCT9X6XF;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Affirmation/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
